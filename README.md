@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is KiryaTheBest, I am passionate game developer, and will store here some interesting repos for my personal use.
 
 <!--
 **kiryathebest/kiryathebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
