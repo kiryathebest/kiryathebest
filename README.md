@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is KiryaTheBest, I am passionate game developer, and will store here some interesting repos for my personal use. I was born in the vibrant heart of Tokyo, growing up in a city that was a fusion of the ultra-modern and the deeply traditional. From an early age, I was fascinated by the dichotomy of ancient shrines standing serenely amid towering skyscrapers. This contrast not only defined the landscape of my hometown but also shaped my personality and values [read more](https://kiryathebest.github.io/).
 
-Portfolio: [カジノプロジェクト](https://x-casino.org)
+Portfolio: 
+- [カジノプロジェクト](https://x-casino.org)
 
 <!--
 **kiryathebest/kiryathebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
